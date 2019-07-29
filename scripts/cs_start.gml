@@ -1,0 +1,3 @@
+//cs_start()
+//Just call this first...
+list = ds_list_create();
