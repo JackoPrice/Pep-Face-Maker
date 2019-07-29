@@ -1,0 +1,43 @@
+This Application was made using GameMaker Studio. GameMaker Studio is the intellectual property of YoYo Games Ltd, a company of the United Kingdom.
+Pep-Face's Quest (and the level constructor) is the intellectual property of Jacko Price.
+
+THIS END USER LICENSE AGREEMENT APPLIES TO ALL USE OF THIS APPLICATION.
+
+Scope
+-----
+You may:
+
+Install and use this Application for personal, or commercial use [provided you are part of the Pep-Face's Quest development group];
+
+You must not:
+
+Use [Except if permitted by Jacko Price],copy, transfer, distribute, modify, adapt, merge, translate, decompile, disassemble, or reverse engineer the Application or part of it except as expressly permitted by this Licence;
+remove, modify, or tamper with any copyright, trademark or other notice;
+use the Application for any illegal, unlawful or immoral purposes.
+
+
+Term
+----
+This License will end automatically if you breach any of the terms.
+When this License ends you must stop all use of the application and erase any copies you have.
+
+
+Liability
+---------
+
+Jacko Price warrants only that this application will function satisfactorily if used properly and on the correct operating system.
+Jacko Price does not warrant that the operation of the Appication will be uninterrupted or error free or that errors can be corrected. You install and use the Application at your own risk and in no event will Jacko Price be liable to you for any loss or damage of any kind (except personal injury or death arising from Jacko Price's negligence) including lost profits or other consequential loss arising from the use of or inability to use the Application or from errors or deficiencies in it whether caused by negligence or otherwise.
+To the maximum extent permitted by law, Jacko Price excludes liability for all warranties, conditions and other terms which but for this notice would have effect.
+
+
+General
+-------
+
+All copyright and other intellectual property rights in GameMaker and parts of it included in the Application belong to and vest in YoYo Games. All rights of YoYo Games are hereby asserted and reserved.
+All trade marks are the property of their respective owners and YoYo Games makes no warranty or representation in respect of and has no responsibility and excludes all liability for any trade mark or third party content.
+The rights granted in this license are non-exclusive.
+This License is governed by English Law and the parties submit to the exclusive jurisdiction of the English Courts.
+Please report any and all bugs to pepfacesquest@gmail.com with the subject: PFLE BUG REPORT
+This application is designed for internal use within the Pep-Face's Quest development group and use of the application outside of it is prohibited.
+
+Click “ACCEPT” and accept these terms to install and use this Application. If you do not accept them terms you may not continue with the installation and you must not install, use or run this software on this or any other computer.
